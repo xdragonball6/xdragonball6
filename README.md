@@ -8,8 +8,8 @@
 </hr>
  <br/>
 
-- Age : Born in 1997  
-- Email : xdragonball6@gmail.com
+Age : Born in 1997  
+Email : xdragonball6@gmail.com
 <br/>
 <br/>
 사용 기술 스택<hr></hr>
@@ -37,6 +37,7 @@
 <!--Python-->
 <a href="https://www.python.org/">
 <img src="https://velog.velcdn.com/images/deep-of-machine/post/3f778fa2-2b43-42b3-9233-091424be7d73/image.png", width="70", height="50"></a></br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdragonball6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
