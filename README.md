@@ -1,5 +1,5 @@
-👻 JiHwan Park
-- Age : Born in 1997     
+JiHwan Park
+- Age : Born in 1997 \n  
 - Email : xdragonball6@gmail.com
 
 <!---
