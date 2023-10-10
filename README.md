@@ -22,8 +22,8 @@ Email : xdragonball6@gmail.com<br/>
 <a href="https://www.mysql.com/">
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png", width="70", height="50"></a>
 <!--eclipse-->
-<a href="https://www.eclipse.org/">
-<img src="https://w7.pngwing.com/pngs/95/978/png-transparent-eclipse-foundation-scalable-graphics-jetty-eclipse-purple-blue-violet.png", width="70", height="50"></a>
+<!-- <a href="https://www.eclipse.org/">
+<img src="https://w7.pngwing.com/pngs/95/978/png-transparent-eclipse-foundation-scalable-graphics-jetty-eclipse-purple-blue-violet.png", width="70", height="50"></a> -->
 <!--spring boot-->
 <a href="https://spring.io/">
 <img src="https://www.clipartmax.com/png/middle/30-300342_spring-data-team-spring-framework-icon.png", width="70", height="50"></a>
