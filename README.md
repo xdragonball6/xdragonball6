@@ -11,7 +11,7 @@
 <br/>
 <br/>
 사용기술스택
-- ---------------
+----------------
 <!--자바-->
 <a href="https://www.java.com/ko/">
 <img src="https://velog.velcdn.com/images/ssssujini99/post/933e83af-d0a8-40a0-998b-ddf173c40459/image.png", width="70", height="50"></a>
