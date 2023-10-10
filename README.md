@@ -7,12 +7,14 @@
  <hr>
 </hr>
  <br/>
-
-Age : Born in 1997  
-Email : xdragonball6@gmail.com
+Name: Jihwan Park<br/>
+Age : Born in 1997  <br/>
+Email : xdragonball6@gmail.com<br/>
 <br/>
 <br/>
-사용 기술 스택<hr></hr>
+<hr></hr>
+:clipboard: I've Used
+<br/><br/>
 <!--자바-->
 <a href="https://www.java.com/ko/">
 <img src="https://velog.velcdn.com/images/ssssujini99/post/933e83af-d0a8-40a0-998b-ddf173c40459/image.png", width="70", height="50"></a>
@@ -36,7 +38,7 @@ Email : xdragonball6@gmail.com
 <img src="https://developer.apple.com/swift/images/swift-og.png", width="50", height="50"></a>
 <!--Python-->
 <a href="https://www.python.org/">
-<img src="https://velog.velcdn.com/images/deep-of-machine/post/3f778fa2-2b43-42b3-9233-091424be7d73/image.png", width="70", height="50"></a></br>
+<img src="https://velog.velcdn.com/images/deep-of-machine/post/3f778fa2-2b43-42b3-9233-091424be7d73/image.png", width="70", height="50"></a></br><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdragonball6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
