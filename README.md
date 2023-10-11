@@ -6,15 +6,10 @@
  <br/>
  <hr>
 </hr>
- <br/>
-Name: Jihwan Park<br/>
-Age : Born in 1997  <br/>
-Email : xdragonball6@gmail.com<br/>
+:email:Email:email:<br/>
+xdragonball6@gmail.com<br/>
 <br/>
-<br/>
-<hr></hr>
-:clipboard: I've Used
-<br/><br/>
+:bulb:Tech Stack:bulb:<br/>
 <!--자바-->
 <a href="https://www.java.com/ko/">
 <img src="https://velog.velcdn.com/images/ssssujini99/post/933e83af-d0a8-40a0-998b-ddf173c40459/image.png", width="70", height="50"></a>
