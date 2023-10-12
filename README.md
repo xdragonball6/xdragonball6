@@ -35,7 +35,8 @@ xdragonball6@gmail.com<br/>
 <a href="https://www.python.org/">
 <img src="https://velog.velcdn.com/images/deep-of-machine/post/3f778fa2-2b43-42b3-9233-091424be7d73/image.png", width="70", height="50"></a></br><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdragonball6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdragonball6&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 ![xdragonball6's github stats](https://github-readme-stats.vercel.app/api?username=xdragonball6&show_icons=true)
 </div>
 
