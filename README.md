@@ -6,8 +6,6 @@
  <br/>
  <hr>
 </hr>
-:email:Email:email:<br/>
-xdragonball6@gmail.com<br/>
 <br/>
 <div align=center>
 	<h3>🧰 Once I used this.. 🧰</h3>
